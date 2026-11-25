@@ -93,3 +93,4 @@ Approval status: NOT REQUESTED
 Deployment status: NOT DEPLOYED
 
 Terraform provisions and manages infrastructure resources, whereas Kubernetes manages application workloads running on that infrastructure.
+
